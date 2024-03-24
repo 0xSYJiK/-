@@ -1,8 +1,8 @@
 <template>
   <span>
-    <div class="navbar bg-base-200 rounded-lg shadow-lg sticky top-2 transition-all ">
+    <div class="navbar bg-base-200 rounded-lg shadow-lg sticky top-2 transition-all">
       <div class="flex-1">
-        <NuxtLink class="btn btn-ghost text-xl">websitename</NuxtLink>
+        <NuxtLink class="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-ghost text-xl">websitename</NuxtLink>
       </div>
       <div class="flex-none">
         <ul class="menu menu-horizontal px-1">
